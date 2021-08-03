@@ -32,7 +32,7 @@ function Dashboard() {
             setDados(dadosGraficos);
         }
 
-        const intervalId = setInterval(() => alterarDados(), 7000);
+        const intervalId = setInterval(() => alterarDados(), 5000);
 
         return () => {
             //
