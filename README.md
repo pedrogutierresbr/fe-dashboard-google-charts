@@ -6,7 +6,7 @@ Este pequeno projeto foi feito para **estudar** a extensão do google charts par
 
 ## Layout
 
-![Layout]()
+![Layout](https://github.com/pedrogutierresbr/dashboard-google-charts/blob/main/public/assets/gif-todo.gif?raw=true)
 
 ## O que foi usado
 
