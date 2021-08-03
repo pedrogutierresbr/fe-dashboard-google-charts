@@ -2,7 +2,7 @@
 
 ## Sobre o estudo
 
-Este pequeno projeto foi feito para **estudar** a extensão do google charts para React JS
+Este pequeno projeto foi feito para **estudar** a extensão do google charts para React JS. Adicionei uma função para atualizar os dados a cada 5 minutos, deixando as informações mostradas pelo gráfico dinâmicas. (Projeto exemplo para aplicações que precisam de monitoramento em tempo real consumindo uma API)
 
 ## Layout
 
