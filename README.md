@@ -2,7 +2,7 @@
 
 ## Sobre o estudo
 
-Este pequeno projeto foi feito para **estudar** a extensão do google charts para React JS. Adicionei uma função para atualizar os dados a cada 5 minutos, deixando as informações mostradas pelo gráfico dinâmicas. (Projeto exemplo para aplicações que precisam de monitoramento em tempo real consumindo uma API)
+Este pequeno projeto foi feito para **estudar** o google charts para React JS. Adicionei uma função para atualizar os dados a cada 5 minutos, deixando dinâmicas as informações mostradas pelos gráficos. (Projeto exemplo para aplicações que precisam de monitoramento em tempo real consumindo uma API)
 
 ## Layout
 
@@ -29,7 +29,7 @@ Além disto, é bom ter um editor para trabalhar com o código,exemplo: [VSCode]
 
 1° - git clone https://github.com/pedrogutierresbr/servidor-api.git -> Para clonar o repositório
 
-2° - npm install -> Para instalar as dependencias necessarias para o projeto
+2° - npm install -> Para instalar as dependências necessárias para o projeto
 
 3° - npm start -> Para iniciar a aplicação (Servidor utilizando a porta 3000)
 ```
